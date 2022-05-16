@@ -1,4 +1,5 @@
 <template>
+<!-- Bruno Teste -->
   <q-page class="flex flex-center">
     <div row items-start>
       <q-card class="my-card">
