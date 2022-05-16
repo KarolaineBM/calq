@@ -7,7 +7,12 @@
 
       <div class="row">
         <div class="col-3">
-          <q-btn class="full-width" size="lg" color="blue-8" label="AC"></q-btn>
+          <q-btn
+            class="full-width"
+            size="lg"
+            color="blue-8"
+            id="display"
+          ></q-btn>
         </div>
 
         <div class="col-3">
@@ -105,11 +110,14 @@
 
 <script>
 import { defineComponent } from "@vue/runtime-core";
+import { ref } from "vue";
 
 export default defineComponent({
   name: "PageTeste",
 
-  setup() {},
+  setup() {
+    return {};
+  },
 });
 </script>
 
