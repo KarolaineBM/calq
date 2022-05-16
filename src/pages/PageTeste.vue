@@ -1,5 +1,4 @@
 <template>
-<!-- Teste Bruno ok  -->
   <q-page class="row flex-center">
     <div class="col-md-5 col-xs-12 q-pa-md">
       <div class="row">
